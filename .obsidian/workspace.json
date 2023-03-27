@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "be8fbc6f10a07cbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e8c0f837e230bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4151d5a1ab70e611",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "X-主題索引/遊戲/Espheory/未命名.canvas",
+                "viewState": {
+                  "x": -74.12785862785847,
+                  "y": -1203.401247401247,
+                  "zoom": -1.088697345975287
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39ce142aedeb0593",
+    "type": "split",
+    "children": [
+      {
+        "id": "60f5e708c5d70277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "004042de27073288",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "935b92ad413e4e7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c52c8b95f18d14f0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "88453b367989e94f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cefd959f01a9b4d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "316cfbed02d1af1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "X-主題索引/遊戲/Espheory/未命名.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2663740778b07e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "X-主題索引/遊戲/Espheory/未命名.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "023c8bf0a1f84d0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "083ddb83249111c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "X-主題索引/遊戲/Espheory/未命名.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "083ddb83249111c7",
+  "lastOpenFiles": [
+    "X-主題索引/遊戲/Espheory/Context.md",
+    "X-主題索引/遊戲/Espheory/Espheory.md",
+    "X-主題索引/遊戲/Espheory/未命名.canvas",
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/ZenMode.md",
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/StoryMode.md",
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/MainMenuMode.md",
+    "X-主題索引/遊戲/Espheory/遊戲模式管理",
+    "X-主題索引/遊戲/Espheory/控制管理/Mouse.md",
+    "X-主題索引/遊戲/Espheory/控制管理/Keyboard.md",
+    "X-主題索引/遊戲/Espheory/控制管理/Controller.md",
+    "X-主題索引/遊戲/Espheory/控制管理",
+    "X-主題索引/遊戲/Espheory/儲存管理/SerializationData.md",
+    "X-主題索引/遊戲/Espheory/儲存管理/GameStatus.md",
+    "X-主題索引/遊戲/Espheory/儲存管理/Configuration.md",
+    "X-主題索引/遊戲/Espheory/儲存管理/ActorState.md",
+    "X-主題索引/遊戲/Espheory/儲存管理",
+    "X-主題索引/遊戲/Espheory/context/劇情/實體/Player.md",
+    "X-主題索引/遊戲/Espheory/context/劇情/實體/NPC.md",
+    "X-主題索引/遊戲/Espheory/context/劇情/實體/Enemy.md",
+    "X-主題索引/遊戲/Espheory/context/劇情/實體",
+    "X-主題索引/遊戲/Espheory/context/劇情/任務/MainQuest.md",
+    "X-主題索引/遊戲/Espheory/context/劇情/任務",
+    "X-主題索引/遊戲/Espheory/context/劇情/互動/Inventory.md",
+    "X-主題索引/遊戲/Espheory/context/劇情/互動/Dialogue.md",
+    "X-主題索引/遊戲/Espheory/context/劇情/互動/Battle.md",
+    "X-主題索引/遊戲/Espheory/context/劇情/互動",
+    "X-主題索引/遊戲/Espheory/context/劇情/SaveStore",
+    "X-主題索引/遊戲/Espheory/context/劇情/QuestManager.md",
+    "X-主題索引/遊戲/Espheory/context/劇情/InteractionManager.md",
+    "X-主題索引/遊戲/Espheory/context/劇情/EntityManager.md",
+    "X-主題索引/遊戲/Espheory/context/劇情",
+    "X-主題索引/遊戲/Espheory/context",
+    "X-主題索引/遊戲/Espheory/場景.md",
+    "X-主題索引/遊戲/Espheory/介面.md",
+    "X-主題索引/遊戲/Espheory/主選單.md",
+    "X-主題索引/遊戲/Espheory/SaveManger.md",
+    "X-主題索引/遊戲/Espheory"
+  ]
+}
