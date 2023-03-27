@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fafb8bc7-4c7c-421c-9887-d95e10127f9d" name="Changes" comment="" />
+    <list default="true" id="fafb8bc7-4c7c-421c-9887-d95e10127f9d" name="Changes" comment="設定檔更新">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +53,7 @@
       <updated>1679947915863</updated>
       <workItem from="1679947932783" duration="314000" />
       <workItem from="1679948272009" duration="129000" />
-      <workItem from="1679948571356" duration="298000" />
+      <workItem from="1679948571356" duration="475000" />
     </task>
     <task id="LOCAL-00001" summary="初始化專案">
       <created>1679948326236</created>
@@ -59,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679948326236</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="設定檔更新">
+      <created>1679948930788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679948930788</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +92,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="初始化專案" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化專案" />
+    <MESSAGE value="設定檔更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="設定檔更新" />
   </component>
 </project>
