@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "88453b367989e94f",
@@ -151,7 +150,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "083ddb83249111c7",
+  "active": "4151d5a1ab70e611",
   "lastOpenFiles": [
     "X-主題索引/遊戲/Espheory/Context.md",
     "X-主題索引/遊戲/Espheory/Espheory.md",
