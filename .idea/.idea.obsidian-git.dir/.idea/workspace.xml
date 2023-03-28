@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fafb8bc7-4c7c-421c-9887-d95e10127f9d" name="Changes" comment="" />
+    <list default="true" id="fafb8bc7-4c7c-421c-9887-d95e10127f9d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.obsidian-git.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.obsidian-git.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-git/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-git/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/X-主題索引/遊戲/Espheory/未命名.canvas" beforeDir="false" afterPath="$PROJECT_DIR$/X-主題索引/遊戲/Espheory/未命名.canvas" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +57,7 @@
       <workItem from="1679947932783" duration="314000" />
       <workItem from="1679948272009" duration="129000" />
       <workItem from="1679948571356" duration="528000" />
+      <workItem from="1679969142118" duration="1100000" />
     </task>
     <task id="LOCAL-00001" summary="初始化專案">
       <created>1679948326236</created>
