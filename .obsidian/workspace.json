@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#input_field",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d9d59ed9df895d9d",
+  "active": "935b92ad413e4e7b",
   "lastOpenFiles": [
     "未命名/未命名.canvas",
     "未命名/未命名.md",
