@@ -4,108 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "eb87462a7823be97",
-        "type": "tabs",
+        "id": "cf0af8e9198a9ad7",
+        "type": "split",
         "children": [
           {
-            "id": "cb5cf49cf5c49162",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-閃念筆記/見面2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "576364f148ac2531",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-閃念筆記/4 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d2556f12d54043b7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "X-主題索引/遊戲/Espheory/未命名.canvas",
-                "viewState": {
-                  "x": 94.84989533077822,
-                  "y": -1691.6109001872046,
-                  "zoom": 0.19585048826773316
+            "id": "eb87462a7823be97",
+            "type": "tabs",
+            "dimension": 54.42307692307692,
+            "children": [
+              {
+                "id": "7834b50714056c09",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
                 }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7834b50714056c09",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7eb7e366ac86f3e3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f02680ded814ed36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StoryMode, 英語.md",
-                "mode": "source",
-                "source": false
               }
-            }
+            ]
           },
           {
-            "id": "44d0d9f0e5a665e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/StoryMode.md",
-                "mode": "source",
-                "source": false
+            "id": "11acc0a612686f22",
+            "type": "tabs",
+            "dimension": 45.57692307692307,
+            "children": [
+              {
+                "id": "44d0d9f0e5a665e1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/Story Mode.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 3
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -234,17 +179,18 @@
   },
   "active": "7834b50714056c09",
   "lastOpenFiles": [
-    "X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md",
-    "StoryMode, 英語.md",
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/Story Mode.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式.md",
-    "X-主題索引/遊戲/Espheory/遊戲模式管理/StoryMode.md",
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md",
+    "X-主題索引/遊戲/Espheory/未命名.canvas",
+    "1-閃念筆記/4 1.md",
+    "1-閃念筆記/見面-主人來台旅程.md",
+    "_templates/故事模式Temp.md",
+    "StoryMode, 英語.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/MainMenuMode.md",
     "X-主題索引/遊戲/Espheory/控制管理/Keyboard.md",
     "X-主題索引/遊戲/Espheory/控制管理/Mouse.md",
-    "X-主題索引/遊戲/Espheory/未命名.canvas",
     "X-主題索引/遊戲/Espheory/行為模式.canvas",
-    "1-閃念筆記/4 1.md",
-    "1-閃念筆記/見面2.md",
     "X-主題索引/遊戲/Espheory/場景.md",
     "1-閃念筆記/未命名.md",
     "1-閃念筆記/4.md",
@@ -267,8 +213,6 @@
     "X-主題索引/遊戲/Espheory/儲存管理/Configuration.md",
     "X-主題索引/遊戲/Espheory/儲存管理/ActorState.md",
     "X-主題索引/遊戲/Espheory/儲存管理",
-    "X-主題索引/遊戲/Espheory/context/劇情/實體/Player.md",
-    "X-主題索引/遊戲/Espheory/context/劇情/實體/NPC.md",
     "X-主題索引/遊戲/Espheory/context/劇情/實體",
     "X-主題索引/遊戲/Espheory/context/劇情/任務",
     "X-主題索引/遊戲/Espheory/context/劇情/互動",
