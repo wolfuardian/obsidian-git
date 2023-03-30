@@ -1,6 +1,10 @@
 [[Story Mode|Chinese Version]]
 
-# Process:
-After entering the story mode, players need to choose a character to start the game... On the character selection page, players can perform two actions:
-1.  Create a character.
-2.  Delete a character.
+# Process
+In story mode, players need to choose "character" and "difficulty" to enter the game.
+
+**Character selection**: Players can select an existing character from the character field or perform the following operations:
+1.  Create a character
+2.  Delete a character
+
+**Difficulty selection**: Players can choose a low difficulty round to unlock higher difficulties. The game follows the classic three-round mode.
