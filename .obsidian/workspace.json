@@ -36,22 +36,52 @@
             }
           },
           {
-            "id": "42520430a2ce9c54",
+            "id": "d2556f12d54043b7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "X-主題索引/遊戲/Espheory/行為模式.canvas",
+                "file": "X-主題索引/遊戲/Espheory/未命名.canvas",
                 "viewState": {
-                  "x": 184.76681986135367,
-                  "y": -744.8202491904214,
-                  "zoom": -0.6666666666666666
+                  "x": 94.84989533077822,
+                  "y": -1691.6109001872046,
+                  "zoom": 0.19585048826773316
                 }
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7834b50714056c09",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式（StoryMode）.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7eb7e366ac86f3e3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/禪模式（GardenMode）.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X-主題索引/遊戲/Espheory/行為模式.canvas",
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/禪模式（GardenMode）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X-主題索引/遊戲/Espheory/行為模式.canvas",
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/禪模式（GardenMode）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X-主題索引/遊戲/Espheory/行為模式.canvas"
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/禪模式（GardenMode）.md"
               }
             }
           }
@@ -178,14 +208,16 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "42520430a2ce9c54",
+  "active": "7eb7e366ac86f3e3",
   "lastOpenFiles": [
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式（StoryMode）.md",
     "X-主題索引/遊戲/Espheory/未命名.canvas",
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/禪模式（GardenMode）.md",
     "X-主題索引/遊戲/Espheory/行為模式.canvas",
-    "X-主題索引/遊戲/Espheory/場景.md",
-    "1-閃念筆記/見面2.md",
-    "1-閃念筆記/未命名.md",
     "1-閃念筆記/4 1.md",
+    "1-閃念筆記/見面2.md",
+    "X-主題索引/遊戲/Espheory/場景.md",
+    "1-閃念筆記/未命名.md",
     "1-閃念筆記/4.md",
     "未命名/未命名.canvas",
     "第一天 3",
@@ -198,8 +230,6 @@
     "新文字文件.txt",
     "X-主題索引/遊戲/Espheory/Context.md",
     "X-主題索引/遊戲/Espheory/Espheory.md",
-    "X-主題索引/遊戲/Espheory/遊戲模式管理/ZenMode.md",
-    "X-主題索引/遊戲/Espheory/遊戲模式管理/StoryMode.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/MainMenuMode.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理",
     "X-主題索引/遊戲/Espheory/控制管理/Mouse.md",
