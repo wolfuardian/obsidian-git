@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"group","id":"624818aeb4e6c082","x":-208,"y":-87,"width":437,"height":435,"color":"1","label":"遊戲模式"},
+		{"type":"group","id":"4845d63bdb866b7f","x":-668,"y":-87,"width":437,"height":435,"color":"4","label":"儲存"},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/遊戲模式管理/StoryMode.md","id":"b59db131cf3f3a08","x":-187,"y":38,"width":395,"height":50},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/Espheory.md","id":"2463e2a2cc4f465c","x":-89,"y":-347,"width":200,"height":60},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/InputManager.md","id":"89a36f8675a957a9","x":272,"y":-52,"width":395,"height":50,"color":"6"},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/控制管理/Mouse.md","id":"e2fb8835859b7bea","x":273,"y":38,"width":395,"height":50},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/控制管理/Keyboard.md","id":"09e3304d698571d4","x":273,"y":118,"width":395,"height":50},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/控制管理/Controller.md","id":"d519c728b727d3e8","x":273,"y":198,"width":395,"height":50},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/GameModeManager.md","id":"7f826fe4f392835a","x":-188,"y":-52,"width":395,"height":50,"color":"1"},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/遊戲模式管理/ZenMode.md","id":"619139975e72b208","x":-187,"y":118,"width":395,"height":50},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/儲存管理/Configuration.md","id":"79019b38dbf09a75","x":-648,"y":38,"width":395,"height":50},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/儲存管理/ActorState.md","id":"544690e4cc82c313","x":-648,"y":118,"width":395,"height":50},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/SaveManger.md","id":"cca35409b71a9537","x":-648,"y":-52,"width":395,"height":50,"color":"4"},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/儲存管理/GameStatus.md","id":"3f1090da7592eb74","x":-648,"y":198,"width":395,"height":50},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/儲存管理/SerializationData.md","id":"11d2900878842577","x":-648,"y":278,"width":395,"height":50},
+		{"id":"7fc7caa942f3aa53","x":-150,"y":-1040,"width":250,"height":60,"type":"text","text":"進入主選單"},
+		{"type":"text","text":"進入主選單","id":"e9413a7858cefa3f","x":-150,"y":-920,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f52938dddff744fe","fromNode":"2463e2a2cc4f465c","fromSide":"bottom","toNode":"cca35409b71a9537","toSide":"top"},
+		{"id":"65ffa3844ab9281a","fromNode":"2463e2a2cc4f465c","fromSide":"bottom","toNode":"7f826fe4f392835a","toSide":"top"},
+		{"id":"89f12b596c7daf74","fromNode":"2463e2a2cc4f465c","fromSide":"bottom","toNode":"89a36f8675a957a9","toSide":"top"}
+	]
+}

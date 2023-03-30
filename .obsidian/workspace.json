@@ -39,15 +39,19 @@
             "id": "42520430a2ce9c54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1-閃念筆記/4 1.md",
-                "mode": "source",
-                "source": false
+                "file": "X-主題索引/遊戲/Espheory/行為模式.canvas",
+                "viewState": {
+                  "x": 184.76681986135367,
+                  "y": -744.8202491904214,
+                  "zoom": -0.6666666666666666
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/見面2.md",
+                "file": "X-主題索引/遊戲/Espheory/行為模式.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/見面2.md",
+                "file": "X-主題索引/遊戲/Espheory/行為模式.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/見面2.md"
+                "file": "X-主題索引/遊戲/Espheory/行為模式.canvas"
               }
             }
           }
@@ -174,11 +178,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "cb5cf49cf5c49162",
+  "active": "42520430a2ce9c54",
   "lastOpenFiles": [
-    "1-閃念筆記/4 1.md",
+    "X-主題索引/遊戲/Espheory/未命名.canvas",
+    "X-主題索引/遊戲/Espheory/行為模式.canvas",
+    "X-主題索引/遊戲/Espheory/場景.md",
     "1-閃念筆記/見面2.md",
     "1-閃念筆記/未命名.md",
+    "1-閃念筆記/4 1.md",
     "1-閃念筆記/4.md",
     "未命名/未命名.canvas",
     "第一天 3",
@@ -188,7 +195,6 @@
     "X-主題索引/遊戲/Espheory/SaveManger.md",
     "X-主題索引/遊戲/Espheory/介面.md",
     "未命名",
-    "X-主題索引/遊戲/Espheory/未命名.canvas",
     "新文字文件.txt",
     "X-主題索引/遊戲/Espheory/Context.md",
     "X-主題索引/遊戲/Espheory/Espheory.md",
@@ -209,7 +215,6 @@
     "X-主題索引/遊戲/Espheory/context/劇情/實體/NPC.md",
     "X-主題索引/遊戲/Espheory/context/劇情/實體/Enemy.md",
     "X-主題索引/遊戲/Espheory/context/劇情/實體",
-    "X-主題索引/遊戲/Espheory/context/劇情/任務/MainQuest.md",
     "X-主題索引/遊戲/Espheory/context/劇情/任務",
     "X-主題索引/遊戲/Espheory/context/劇情/互動",
     "X-主題索引/遊戲/Espheory/context/劇情/SaveStore"
