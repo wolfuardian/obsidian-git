@@ -17,7 +17,7 @@
 		{"type":"text","text":"進入主選單","id":"7fc7caa942f3aa53","x":-220,"y":-1480,"width":540,"height":60},
 		{"type":"text","text":"進入遊戲","id":"e9413a7858cefa3f","x":-580,"y":-1102,"width":250,"height":60},
 		{"type":"file","file":"X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式（StoryMode）.md","id":"258affb12ef76ad2","x":-199,"y":-1280,"width":239,"height":60},
-		{"type":"file","file":"X-主題索引/遊戲/Espheory/遊戲模式管理/禪模式（GardenMode）.md","id":"619139975e72b208","x":-186,"y":136,"width":395,"height":62},
+		{"type":"file","file":"X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md","id":"619139975e72b208","x":-186,"y":136,"width":395,"height":62},
 		{"type":"file","file":"X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式（StoryMode）.md","id":"b59db131cf3f3a08","x":-180,"y":60,"width":395,"height":62}
 	],
 	"edges":[

@@ -73,15 +73,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/禪模式（GardenMode）.md",
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f02680ded814ed36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式（StoryMode）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/禪模式（GardenMode）.md",
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式（StoryMode）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/禪模式（GardenMode）.md",
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式（StoryMode）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/禪模式（GardenMode）.md"
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式（StoryMode）.md"
               }
             }
           }
@@ -208,11 +220,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "7eb7e366ac86f3e3",
+  "active": "f02680ded814ed36",
   "lastOpenFiles": [
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md",
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/MainMenuMode.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式（StoryMode）.md",
+    "X-主題索引/遊戲/Espheory/控制管理/Keyboard.md",
+    "X-主題索引/遊戲/Espheory/控制管理/Mouse.md",
     "X-主題索引/遊戲/Espheory/未命名.canvas",
-    "X-主題索引/遊戲/Espheory/遊戲模式管理/禪模式（GardenMode）.md",
     "X-主題索引/遊戲/Espheory/行為模式.canvas",
     "1-閃念筆記/4 1.md",
     "1-閃念筆記/見面2.md",
@@ -230,10 +245,7 @@
     "新文字文件.txt",
     "X-主題索引/遊戲/Espheory/Context.md",
     "X-主題索引/遊戲/Espheory/Espheory.md",
-    "X-主題索引/遊戲/Espheory/遊戲模式管理/MainMenuMode.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理",
-    "X-主題索引/遊戲/Espheory/控制管理/Mouse.md",
-    "X-主題索引/遊戲/Espheory/控制管理/Keyboard.md",
     "X-主題索引/遊戲/Espheory/控制管理/Controller.md",
     "X-主題索引/遊戲/Espheory/控制管理",
     "X-主題索引/遊戲/Espheory/儲存管理/SerializationData.md",
