@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "建立角色.md",
+                "file": "選擇靈魂根系.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "建立角色.md",
+                "file": "選擇靈魂根系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "建立角色.md",
+                "file": "選擇靈魂根系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "建立角色.md"
+                "file": "選擇靈魂根系.md"
               }
             }
           }
@@ -163,12 +163,12 @@
   },
   "active": "18dfd41d285797fb",
   "lastOpenFiles": [
-    "刪除角色.md",
-    "建立角色.md",
-    "選擇種族與性別.md",
-    "選擇故鄉.md",
-    "選擇靈魂根系.md",
     "選擇外觀.md",
+    "選擇種族與性別.md",
+    "選擇靈魂根系.md",
+    "建立角色.md",
+    "刪除角色.md",
+    "選擇故鄉.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/Story Mode.md",
     "[[故事模式.md",
