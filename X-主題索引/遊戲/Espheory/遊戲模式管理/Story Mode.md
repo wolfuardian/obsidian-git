@@ -1,4 +1,8 @@
-[[故事模式|Chinese Version]]
+👈｜
+🔗｜
+🌐｜[[故事模式]]
+
+---
 
 ## In story mode
 Players need to choose "character" and "difficulty" to enter the game.
