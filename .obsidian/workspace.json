@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "feadad36b41f8f9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-閃念筆記/著迷世界遊戲論.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "選擇種族與性別.md",
+                "file": "1-閃念筆記/著迷世界遊戲論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "選擇種族與性別.md",
+                "file": "1-閃念筆記/著迷世界遊戲論.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "選擇種族與性別.md"
+                "file": "1-閃念筆記/著迷世界遊戲論.md"
               }
             }
           }
@@ -160,12 +172,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "4e3ad267e82202e5",
+  "active": "feadad36b41f8f9e",
   "lastOpenFiles": [
+    "選擇種族與性別.md",
+    "1-閃念筆記/著迷世界遊戲論.md",
     "選擇外觀.md",
     "選擇故鄉.md",
     "選擇靈途.md",
-    "選擇種族與性別.md",
     "建立角色.md",
     "刪除角色.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式.md",
