@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80479a3fba7edaba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-閃念筆記/LoRa感.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X-主題索引/AI/Prompts.md",
+                "file": "1-閃念筆記/LoRa感.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X-主題索引/AI/Prompts.md",
+                "file": "1-閃念筆記/LoRa感.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X-主題索引/AI/Prompts.md"
+                "file": "1-閃念筆記/LoRa感.md"
               }
             }
           }
@@ -172,10 +184,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "feadad36b41f8f9e",
+  "active": "80479a3fba7edaba",
   "lastOpenFiles": [
-    "X-主題索引/AI/未命名 1.md",
     "X-主題索引/AI/Prompts.md",
+    "1-閃念筆記/LoRa感.md",
+    "X-主題索引/AI/未命名 1.md",
     "未命名.md",
     "建立角色.md",
     "X-主題索引/AI",
@@ -202,7 +215,6 @@
     "X-主題索引/遊戲/Espheory/未命名.canvas",
     "1-閃念筆記/4 1.md",
     "_templates/故事模式Temp.md",
-    "X-主題索引/遊戲/Espheory/控制管理/Keyboard.md",
     "X-主題索引/遊戲/Espheory/行為模式.canvas",
     "未命名/未命名.canvas",
     "第一天 3",
