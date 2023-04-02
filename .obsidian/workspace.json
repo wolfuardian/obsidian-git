@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式.md",
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/劇情模式.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "選擇種族與性別.md",
-                "mode": "preview",
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -36,13 +36,15 @@
           {
             "id": "feadad36b41f8f9e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X-主題索引/AI/Prompts.md",
-                "mode": "preview",
+                "file": "X-主題索引/遊戲/Espheory/主選單.md",
+                "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -58,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/LoRa感.md",
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/LoRa感.md",
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/LoRa感.md"
+                "file": "X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md"
               }
             }
           }
@@ -184,18 +186,23 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "80479a3fba7edaba",
+  "active": "4e3ad267e82202e5",
   "lastOpenFiles": [
-    "X-主題索引/AI/Prompts.md",
     "1-閃念筆記/LoRa感.md",
+    "X-主題索引/遊戲/Espheory/主選單.md",
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md",
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/劇情模式.md",
+    "建立角色.md",
+    "X-主題索引/遊戲/Espheory/介面.md",
+    "修養模式.md",
+    "選擇外觀.md",
+    "選擇種族與性別.md",
+    "X-主題索引/遊戲/Espheory/遊戲模式管理/MainMenuMode.md",
+    "X-主題索引/AI/Prompts.md",
     "X-主題索引/AI/未命名 1.md",
     "未命名.md",
-    "建立角色.md",
     "X-主題索引/AI",
-    "選擇種族與性別.md",
-    "X-主題索引/遊戲/Espheory/遊戲模式管理/故事模式.md",
     "1-閃念筆記/著迷世界遊戲論.md",
-    "選擇外觀.md",
     "選擇故鄉.md",
     "選擇靈途.md",
     "刪除角色.md",
@@ -206,15 +213,10 @@
     "X-主題索引/遊戲/Espheory/儲存管理/遊戲狀態 GameStatus.md",
     "2-文獻筆記/Pasted image 20230331154109.png",
     "2-文獻筆記/未命名.md",
-    "X-主題索引/遊戲/Espheory/遊戲模式管理/MainMenuMode.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/ZenMode.md",
     "1-閃念筆記/見面-主人來台旅程.md",
     "1-閃念筆記/4.md",
-    "X-主題索引/遊戲/Espheory/Context.md",
-    "X-主題索引/遊戲/Espheory/遊戲模式管理/修養模式（RetreatMode）.md",
     "X-主題索引/遊戲/Espheory/未命名.canvas",
-    "1-閃念筆記/4 1.md",
-    "_templates/故事模式Temp.md",
     "X-主題索引/遊戲/Espheory/行為模式.canvas",
     "未命名/未命名.canvas",
     "第一天 3",
