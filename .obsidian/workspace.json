@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fcb48178853b089e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-閃念筆記/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X-主題索引/AI/未命名 1.md",
+                "file": "1-閃念筆記/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X-主題索引/AI/未命名 1.md",
+                "file": "1-閃念筆記/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X-主題索引/AI/未命名 1.md"
+                "file": "1-閃念筆記/未命名.md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d7cbd1664d3ebe34",
+  "active": "fcb48178853b089e",
   "lastOpenFiles": [
-    "X-主題索引/AI/Prompts.md",
     "X-主題索引/AI/未命名 1.md",
+    "1-閃念筆記/未命名.md",
+    "X-主題索引/AI/Prompts.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/劇情模式.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/StoryMode.md",
     "Soulvia.md",
