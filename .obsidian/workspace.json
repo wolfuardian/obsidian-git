@@ -166,6 +166,30 @@
             }
           },
           {
+            "id": "f964cd3cfb03fcfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-閃念筆記/20230403.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "161e97fff3f4d1f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-閃念筆記/20230217.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b2f276c5d7eb96b",
             "type": "leaf",
             "state": {
@@ -178,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -244,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/20230404.md",
+                "file": "1-閃念筆記/20230217.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/20230404.md",
+                "file": "1-閃念筆記/20230217.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/20230404.md"
+                "file": "1-閃念筆記/20230217.md"
               }
             }
           }
@@ -304,10 +328,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "0dc9a4a166177901",
+  "active": "161e97fff3f4d1f2",
   "lastOpenFiles": [
-    "1-閃念筆記/20230222.md",
+    "1-閃念筆記/20230309.md",
+    "1-閃念筆記/4.md",
+    "1-閃念筆記/20230403.md",
     "1-閃念筆記/20230404.md",
+    "1-閃念筆記/20230222.md",
     "1-閃念筆記/20230218.md",
     "1-閃念筆記/20230225.md",
     "1-閃念筆記/20230223.md",
@@ -322,7 +349,6 @@
     "1-閃念筆記/LoRa感.md",
     "1-閃念筆記/著迷世界遊戲論.md",
     "1-閃念筆記/見面-主人來台旅程.md",
-    "1-閃念筆記/4.md",
     "X-主題索引/AI/Prompts.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/劇情模式.md",
     "_templates/故事模式Temp.md",
@@ -330,8 +356,6 @@
     "X-主題索引/AI/未命名 1.md",
     "X-主題索引/遊戲/Espheory/遊戲模式管理/StoryMode.md",
     "Soulvia.md",
-    "選擇故鄉.md",
-    "選擇靈途.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "X-主題索引/AI",
