@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "教堂",
+                "query": "可憐",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/20230206.md",
+                "file": "1-閃念筆記/事件經過.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/20230206.md",
+                "file": "1-閃念筆記/事件經過.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/20230206.md"
+                "file": "1-閃念筆記/事件經過.md"
               }
             }
           }
@@ -212,10 +212,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "fb75dc4337d777a4",
+  "active": "fea463906cade9d5",
   "lastOpenFiles": [
-    "1-閃念筆記/事件經過.md",
     "1-閃念筆記/20230206.md",
+    "1-閃念筆記/事件經過.md",
+    "1-閃念筆記/故事架構.md",
     "1-閃念筆記/20230207.md",
     "1-閃念筆記/20230205.md",
     "1-閃念筆記/20230404.md",
@@ -233,7 +234,6 @@
     "1-閃念筆記/20230208.md",
     "1-閃念筆記/Project_奴校.md",
     "1-閃念筆記/互動.md",
-    "1-閃念筆記/故事架構.md",
     "_templates/故事模式Temp.md",
     "2-文獻筆記/Pasted image 20230331154109.png",
     "2-文獻筆記/未命名.md",
