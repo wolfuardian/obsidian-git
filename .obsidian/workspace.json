@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "可憐",
+                "query": "四肢",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/事件經過.md",
+                "file": "1-閃念筆記/20230206.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/事件經過.md",
+                "file": "1-閃念筆記/20230206.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/事件經過.md"
+                "file": "1-閃念筆記/20230206.md"
               }
             }
           }
@@ -212,10 +212,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "fea463906cade9d5",
+  "active": "935b92ad413e4e7b",
   "lastOpenFiles": [
-    "1-閃念筆記/20230206.md",
+    "互動.md",
     "1-閃念筆記/事件經過.md",
+    "1-閃念筆記/20230206.md",
     "1-閃念筆記/故事架構.md",
     "1-閃念筆記/20230207.md",
     "1-閃念筆記/20230205.md",
@@ -241,7 +242,6 @@
     "事件.md",
     "建立角色.md",
     "Soulvia.md",
-    "路狄亞家族.md",
     "未命名 1.canvas",
     "X-主題索引/AI",
     "X-主題索引/遊戲/Espheory/未命名.canvas",
