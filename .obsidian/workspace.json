@@ -4,42 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "eb87462a7823be97",
-        "type": "tabs",
+        "id": "18447de637d2eb43",
+        "type": "split",
+        "dimension": 44.90291262135923,
         "children": [
           {
-            "id": "2db33c76b7d0cafa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-閃念筆記/互動.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
+            "id": "2ec2b10dc14a543d",
+            "type": "tabs",
+            "dimension": 59.90384615384615,
+            "children": [
+              {
+                "id": "fb75dc4337d777a4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-閃念筆記/20230206.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           },
           {
-            "id": "9f71642ab7e97a76",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-閃念筆記/故事架構.md",
-                "mode": "source",
-                "source": false
+            "id": "eb87462a7823be97",
+            "type": "tabs",
+            "dimension": 40.09615384615385,
+            "children": [
+              {
+                "id": "2db33c76b7d0cafa",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-閃念筆記/互動.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               },
-              "pinned": true
-            }
+              {
+                "id": "9f71642ab7e97a76",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-閃念筆記/故事架構.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "a8f20a20f7145e81",
         "type": "tabs",
+        "dimension": 55.09708737864077,
         "children": [
           {
             "id": "fea463906cade9d5",
@@ -54,33 +84,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "59ce1b1600568e1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-閃念筆記/20230218.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71932e67df4053eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-閃念筆記/20230209.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "教堂",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +131,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/20230209.md",
+                "file": "1-閃念筆記/20230206.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/20230209.md",
+                "file": "1-閃念筆記/20230206.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/20230209.md"
+                "file": "1-閃念筆記/20230206.md"
               }
             }
           }
@@ -206,23 +212,29 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "71932e67df4053eb",
+  "active": "fb75dc4337d777a4",
   "lastOpenFiles": [
-    "1-閃念筆記/20230208.md",
-    "1-閃念筆記/20230207.md",
-    "1-閃念筆記/20230211.md",
-    "1-閃念筆記/20230206.md",
-    "1-閃念筆記/20230209.md",
-    "1-閃念筆記/20230218.md",
-    "1-閃念筆記/Project_奴校.md",
     "1-閃念筆記/事件經過.md",
+    "1-閃念筆記/20230206.md",
+    "1-閃念筆記/20230207.md",
+    "1-閃念筆記/20230205.md",
+    "1-閃念筆記/20230404.md",
+    "1-閃念筆記/20230403.md",
+    "1-閃念筆記/20230309.md",
+    "1-閃念筆記/20230225.md",
+    "1-閃念筆記/20230223.md",
+    "1-閃念筆記/20230222.md",
+    "1-閃念筆記/20230218.md",
+    "1-閃念筆記/20230217.md",
+    "1-閃念筆記/20230214.md",
+    "1-閃念筆記/20230212.md",
+    "1-閃念筆記/20230211.md",
+    "1-閃念筆記/20230209.md",
+    "1-閃念筆記/20230208.md",
+    "1-閃念筆記/Project_奴校.md",
     "1-閃念筆記/互動.md",
     "1-閃念筆記/故事架構.md",
-    "1-閃念筆記/20230212.md",
     "_templates/故事模式Temp.md",
-    "1-閃念筆記/20230217.md",
-    "1-閃念筆記/20230222.md",
-    "1-閃念筆記/20230225.md",
     "2-文獻筆記/Pasted image 20230331154109.png",
     "2-文獻筆記/未命名.md",
     "未命名.canvas",
@@ -230,12 +242,6 @@
     "建立角色.md",
     "Soulvia.md",
     "路狄亞家族.md",
-    "1-閃念筆記/20230404.md",
-    "1-閃念筆記/4 1.md",
-    "未命名/未命名.md",
-    "1-閃念筆記/LoRa感.md",
-    "1-閃念筆記/著迷世界遊戲論.md",
-    "1-閃念筆記/4.md",
     "未命名 1.canvas",
     "X-主題索引/AI",
     "X-主題索引/遊戲/Espheory/未命名.canvas",
