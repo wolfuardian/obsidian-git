@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-閃念筆記/20230207.md",
+                    "file": "1-閃念筆記/20230208.md",
                     "mode": "source",
                     "source": false
                   }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/事件經過.md",
+                "file": "1-閃念筆記/20230208.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/事件經過.md",
+                "file": "1-閃念筆記/20230208.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/事件經過.md"
+                "file": "1-閃念筆記/20230208.md"
               }
             }
           }
@@ -223,12 +223,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "fea463906cade9d5",
+  "active": "fb75dc4337d777a4",
   "lastOpenFiles": [
-    "1-閃念筆記/小曜趁最後主人不在地牢的幾天，誠心向腦海裡的火神`埃格勒（Aegle）`觀禮.md",
-    "1-閃念筆記/事件經過.md",
-    "1-閃念筆記/故事架構.md",
     "1-閃念筆記/20230207.md",
+    "1-閃念筆記/事件經過.md",
+    "1-閃念筆記/小曜趁最後主人不在地牢的幾天，誠心向腦海裡的火神`埃格勒（Aegle）`觀禮.md",
+    "1-閃念筆記/故事架構.md",
     "1-閃念筆記/20230206.md",
     "1-閃念筆記/20230208.md",
     "1-閃念筆記/20230209.md",
