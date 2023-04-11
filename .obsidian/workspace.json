@@ -126,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "主人",
+                "query": "旅館",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,12 +143,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "88453b367989e94f",
