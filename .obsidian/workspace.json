@@ -6,7 +6,7 @@
       {
         "id": "18447de637d2eb43",
         "type": "split",
-        "dimension": 44.90291262135923,
+        "dimension": 42.64943457189014,
         "children": [
           {
             "id": "2ec2b10dc14a543d",
@@ -69,7 +69,7 @@
       {
         "id": "a8f20a20f7145e81",
         "type": "tabs",
-        "dimension": 55.09708737864077,
+        "dimension": 57.35056542810986,
         "children": [
           {
             "id": "fea463906cade9d5",
@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "88453b367989e94f",
@@ -223,8 +224,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "fea463906cade9d5",
+  "active": "004042de27073288",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "想法 想做的事.md",
     "1-閃念筆記/故事架構.md",
     "1-閃念筆記/事件經過.md",
     "1-閃念筆記/20230208.md",
@@ -251,8 +254,6 @@
     "2-文獻筆記/Pasted image 20230331154109.png",
     "2-文獻筆記/未命名.md",
     "未命名.canvas",
-    "事件.md",
-    "建立角色.md",
     "未命名 1.canvas",
     "X-主題索引/AI",
     "X-主題索引/遊戲/Espheory/未命名.canvas",
