@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/事件經過.md",
+                "file": "1-閃念筆記/故事架構.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/事件經過.md",
+                "file": "1-閃念筆記/故事架構.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/事件經過.md"
+                "file": "1-閃念筆記/故事架構.md"
               }
             }
           }
@@ -224,10 +224,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "fea463906cade9d5",
+  "active": "9f71642ab7e97a76",
   "lastOpenFiles": [
-    "1-閃念筆記/20230207.md",
     "1-閃念筆記/事件經過.md",
+    "1-閃念筆記/20230207.md",
     "1-閃念筆記/20230206.md",
     "1-閃念筆記/20230205.md",
     "1-閃念筆記/20230208.md",
