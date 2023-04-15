@@ -1,2 +1,2 @@
 gpt-3.5-turbo
-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
+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
