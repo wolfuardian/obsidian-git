@@ -4,111 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "18447de637d2eb43",
-        "type": "split",
-        "dimension": 42.632241813602015,
-        "children": [
-          {
-            "id": "2ec2b10dc14a543d",
-            "type": "tabs",
-            "dimension": 59.90384615384615,
-            "children": [
-              {
-                "id": "fb75dc4337d777a4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-閃念筆記/20230207.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "eb87462a7823be97",
-            "type": "tabs",
-            "dimension": 40.09615384615385,
-            "children": [
-              {
-                "id": "2db33c76b7d0cafa",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-閃念筆記/互動.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "9f71642ab7e97a76",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-閃念筆記/故事架構.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
         "id": "a8f20a20f7145e81",
         "type": "tabs",
-        "dimension": 57.367758186397985,
         "children": [
-          {
-            "id": "fea463906cade9d5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-閃念筆記/事件經過.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2208ef65b5682427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-閃念筆記/小曜趁最後主人不在地牢的幾天，誠心向腦海裡的火神`埃格勒（Aegle）`觀禮.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81b19de11cecc48e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-閃念筆記/未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "695ab5ab8960bed4",
             "type": "leaf",
@@ -121,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "88453b367989e94f",
@@ -250,8 +148,9 @@
   },
   "active": "695ab5ab8960bed4",
   "lastOpenFiles": [
-    "1-閃念筆記/未命名.md",
+    "未命名Key.md",
     "1-閃念筆記/未命名 1.md",
+    "1-閃念筆記/未命名.md",
     "1-閃念筆記/20230207.md",
     "1-閃念筆記/故事架構.md",
     "1-閃念筆記/事件經過.md",
@@ -275,7 +174,6 @@
     "1-閃念筆記/20230212.md",
     "1-閃念筆記/20230211.md",
     "1-閃念筆記/Project_奴校.md",
-    "1-閃念筆記/互動.md",
     "2-文獻筆記/Pasted image 20230331154109.png",
     "未命名.canvas",
     "未命名 1.canvas",

@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "baseFontSize": 17,
+  "baseFontSize": 19,
   "cssTheme": "Wasp",
   "monospaceFontFamily": ".黑體UI-繁",
   "textFontFamily": "華康中明體(P),華康仿宋體 Std",
-  "interfaceFontFamily": "更紗黑體 TC,.黑體UI-繁,華康仿宋體 Std,jf open 粉圓 1.1"
+  "interfaceFontFamily": "華康仿宋體 Std,jf open 粉圓 1.1"
 }
