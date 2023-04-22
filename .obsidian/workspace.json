@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "88afc8cecaac81e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-閃念筆記/未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "70f9511af4f18f76",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/B3D案例 - 解鎖BIM物體屬性並取得Tag.md",
+                "file": "1-閃念筆記/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/B3D案例 - 解鎖BIM物體屬性並取得Tag.md",
+                "file": "1-閃念筆記/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/B3D案例 - 解鎖BIM物體屬性並取得Tag.md"
+                "file": "1-閃念筆記/未命名.md"
               }
             }
           }
@@ -158,11 +170,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "70f9511af4f18f76",
+  "active": "88afc8cecaac81e1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "1-閃念筆記/未命名 2.md",
+    "1-閃念筆記/未命名.md",
     "1-閃念筆記/B3D案例 - 解鎖BIM物體屬性並取得Tag.md",
+    "conflict-files-obsidian-git.md",
     "1-閃念筆記/一分鐘快速了解手機如何傳送檔案.md",
     "Pasted image 20230419161843.png",
     "Pasted image 20230419161829.png",
@@ -190,7 +203,6 @@
     "1-閃念筆記/20230403.md",
     "1-閃念筆記/20230309.md",
     "1-閃念筆記/20230225.md",
-    "1-閃念筆記/20230223.md",
     "2-文獻筆記/Pasted image 20230331154109.png",
     "未命名 1.canvas",
     "X-主題索引/AI",
