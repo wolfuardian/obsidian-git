@@ -69,6 +69,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "924fc611a7988d56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d818eea1157f596d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X-主題索引/Project S/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +213,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d5ad36d1e63cdc4b",
+  "active": "004042de27073288",
   "lastOpenFiles": [
+    "X-主題索引/Project S/未命名.md",
+    "1-閃念筆記/對話紀錄.md",
+    "X-主題索引/Project S",
     "1-閃念筆記/未命名 2.md",
     "1-閃念筆記/20230209.md",
     "1-閃念筆記/未命名.md",
@@ -207,7 +228,6 @@
     "1-閃念筆記/20230207.md",
     "1-閃念筆記/20230208.md",
     "1-閃念筆記/4 1.md",
-    "1-閃念筆記/對話紀錄.md",
     "1-閃念筆記/未命名 3.md",
     "conflict-files-obsidian-git.md",
     "1-閃念筆記/一分鐘快速了解手機如何傳送檔案.md",
@@ -227,7 +247,6 @@
     "1-閃念筆記/故事架構.md",
     "1-閃念筆記/事件經過.md",
     "想法 想做的事.md",
-    "1-閃念筆記/小曜趁最後主人不在地牢的幾天，誠心向腦海裡的火神`埃格勒（Aegle）`觀禮.md",
     "2-文獻筆記/Pasted image 20230331154109.png",
     "未命名 1.canvas",
     "X-主題索引/AI",
@@ -241,7 +260,6 @@
     "X-主題索引/遊戲/Espheory/控制管理",
     "X-主題索引/遊戲/Espheory/儲存管理",
     "X-主題索引/遊戲/Espheory/context/劇情/實體",
-    "X-主題索引/遊戲/Espheory/context/劇情/任務",
-    "X-主題索引/遊戲/Espheory/context/劇情/互動"
+    "X-主題索引/遊戲/Espheory/context/劇情/任務"
   ]
 }
