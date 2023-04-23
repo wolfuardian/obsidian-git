@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "d5ad36d1e63cdc4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-閃念筆記/對話紀錄.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "70f9511af4f18f76",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "精工",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "88453b367989e94f",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/20230211.md",
+                "file": "1-閃念筆記/對話紀錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/20230211.md",
+                "file": "1-閃念筆記/對話紀錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/20230211.md"
+                "file": "1-閃念筆記/對話紀錄.md"
               }
             }
           }
@@ -182,15 +195,20 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "652718e3a4f2537a",
+  "active": "d5ad36d1e63cdc4b",
   "lastOpenFiles": [
-    "1-閃念筆記/20230207.md",
-    "1-閃念筆記/20230205.md",
-    "1-閃念筆記/20230211.md",
-    "1-閃念筆記/未命名 3.md",
-    "1-閃念筆記/未命名.md",
     "1-閃念筆記/未命名 2.md",
+    "1-閃念筆記/20230209.md",
+    "1-閃念筆記/未命名.md",
+    "1-閃念筆記/20230211.md",
     "1-閃念筆記/B3D案例 - 解鎖BIM物體屬性並取得Tag.md",
+    "1-閃念筆記/20230205.md",
+    "1-閃念筆記/20230206.md",
+    "1-閃念筆記/20230207.md",
+    "1-閃念筆記/20230208.md",
+    "1-閃念筆記/4 1.md",
+    "1-閃念筆記/對話紀錄.md",
+    "1-閃念筆記/未命名 3.md",
     "conflict-files-obsidian-git.md",
     "1-閃念筆記/一分鐘快速了解手機如何傳送檔案.md",
     "Pasted image 20230419161843.png",
@@ -208,13 +226,8 @@
     "未命名Key.md",
     "1-閃念筆記/故事架構.md",
     "1-閃念筆記/事件經過.md",
-    "1-閃念筆記/20230206.md",
-    "1-閃念筆記/20230208.md",
     "想法 想做的事.md",
     "1-閃念筆記/小曜趁最後主人不在地牢的幾天，誠心向腦海裡的火神`埃格勒（Aegle）`觀禮.md",
-    "1-閃念筆記/20230209.md",
-    "互動.md",
-    "1-閃念筆記/20230403.md",
     "2-文獻筆記/Pasted image 20230331154109.png",
     "未命名 1.canvas",
     "X-主題索引/AI",
