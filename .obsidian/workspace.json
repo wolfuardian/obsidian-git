@@ -6,7 +6,6 @@
       {
         "id": "a8f20a20f7145e81",
         "type": "tabs",
-        "dimension": 72.79596977329975,
         "children": [
           {
             "id": "d5ad36d1e63cdc4b",
@@ -29,25 +28,6 @@
               "type": "markdown",
               "state": {
                 "file": "1-閃念筆記/對話紀錄(遊戲).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "924fc611a7988d56",
-        "type": "tabs",
-        "dimension": 27.204030226700255,
-        "children": [
-          {
-            "id": "d818eea1157f596d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X-主題索引/Project S/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,6 +164,8 @@
   "lastOpenFiles": [
     "X-主題索引/Project S/未命名.md",
     "1-閃念筆記/對話紀錄(奴校).md",
+    "conflict-files-obsidian-git.md",
+    "1-閃念筆記/blender-bim-to-xml.md",
     "1-閃念筆記/對話紀錄(遊戲).md",
     "1-閃念筆記/B3D案例 - 解鎖BIM物體屬性並取得Tag.md",
     "1-閃念筆記/未命名 2.md",
@@ -197,7 +179,6 @@
     "1-閃念筆記/20230208.md",
     "1-閃念筆記/4 1.md",
     "1-閃念筆記/未命名 3.md",
-    "conflict-files-obsidian-git.md",
     "1-閃念筆記/一分鐘快速了解手機如何傳送檔案.md",
     "Pasted image 20230419161843.png",
     "Pasted image 20230419161829.png",
@@ -213,7 +194,6 @@
     "未命名.canvas",
     "未命名Key.md",
     "1-閃念筆記/故事架構.md",
-    "1-閃念筆記/事件經過.md",
     "2-文獻筆記/Pasted image 20230331154109.png",
     "未命名 1.canvas",
     "X-主題索引/AI",
