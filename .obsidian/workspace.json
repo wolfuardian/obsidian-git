@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 594.5
+    "width": 373.5,
+    "collapsed": true
   },
   "right": {
     "id": "88453b367989e94f",
@@ -160,8 +161,16 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "55268870214abd4e",
+  "active": "004042de27073288",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "1-閃念筆記/20230425_blender探索/Blender.md",
+    "1-閃念筆記/20230425_blender探索/Export XML from blender.md",
+    "1-閃念筆記/未命名.canvas",
+    "XML.svg",
+    "OBJECT.svg",
+    "1-閃念筆記/20230425_blender探索",
+    "Pasted image 20230425143703.png",
     "1-閃念筆記/對話紀錄(奴校).md",
     "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_5_畸形聖母癌.md",
     "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_6_詭異的感覺.md",
@@ -178,7 +187,6 @@
     "互動.md",
     "X-主題索引/Project S/未命名.md",
     "未命名.md",
-    "conflict-files-obsidian-git.md",
     "1-閃念筆記/blender-bim-to-xml.md",
     "1-閃念筆記/對話紀錄(遊戲).md",
     "1-閃念筆記/B3D案例 - 解鎖BIM物體屬性並取得Tag.md",
@@ -190,8 +198,6 @@
     "1-閃念筆記/20230205.md",
     "1-閃念筆記/20230206.md",
     "1-閃念筆記/20230207.md",
-    "1-閃念筆記/20230208.md",
-    "1-閃念筆記/4 1.md",
     "Pasted image 20230419161843.png",
     "Pasted image 20230419161829.png",
     "Pasted image 20230419155642.png",
@@ -206,7 +212,6 @@
     "未命名",
     "新文字文件.txt",
     "X-主題索引/遊戲/Project_Espheory/遊戲模式管理",
-    "X-主題索引/遊戲/Project_Espheory/控制管理",
-    "X-主題索引/遊戲/Project_Espheory/儲存管理"
+    "X-主題索引/遊戲/Project_Espheory/控制管理"
   ]
 }
