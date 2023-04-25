@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_6_詭異的感覺.md",
+                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_6_詭異的感覺.md",
+                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_6_詭異的感覺.md",
+                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_6_詭異的感覺.md"
+                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md"
               }
             }
           }
@@ -161,8 +161,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "004042de27073288",
+  "active": "55268870214abd4e",
   "lastOpenFiles": [
+    "1-閃念筆記/對話紀錄(奴校).md",
+    "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_6_詭異的感覺.md",
     "conflict-files-obsidian-git.md",
     "1-閃念筆記/20230425_blender探索/Blender.md",
     "1-閃念筆記/20230425_blender探索/Export XML from blender.md",
@@ -171,9 +173,7 @@
     "OBJECT.svg",
     "1-閃念筆記/20230425_blender探索",
     "Pasted image 20230425143703.png",
-    "1-閃念筆記/對話紀錄(奴校).md",
     "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_5_畸形聖母癌.md",
-    "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_6_詭異的感覺.md",
     "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md",
     "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_2_主人生氣的模樣.md",
     "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_3_以太凝滯與突襲瞬殺.md",
