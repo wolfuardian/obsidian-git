@@ -22,19 +22,45 @@
             }
           },
           {
-            "id": "55268870214abd4e",
+            "id": "8c140762ea231cc1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X-主題索引/小說/Project_S/RAW/情境_旅行篇_事件_遇上壞主人強奪小曜.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "84269b5db10049d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md",
+                "file": "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/［未處理］段落_6_小曜詭異的模樣.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfed579c07d33418",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/［未處理］段落_2_主人發火的模樣.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md",
+                "file": "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/［未處理］段落_6_小曜詭異的模樣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md",
+                "file": "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/［未處理］段落_6_小曜詭異的模樣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,15 +167,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md"
+                "file": "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/［未處理］段落_6_小曜詭異的模樣.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,11 +189,27 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "55268870214abd4e",
+  "active": "84269b5db10049d9",
   "lastOpenFiles": [
+    "X-主題索引/小說/Project_S/RAW/情境_旅行篇_事件_遇上壞主人強奪小曜.md",
+    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/［未處理］段落_5_對於不殺的執著.md",
+    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/［未處理］段落_4_在致命一擊之前收手.md",
+    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/［未處理］段落_3_凝滯的以太與主人的突襲.md",
+    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/［未處理］段落_2_主人發火的模樣.md",
+    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/［未處理］段落_1_蠻橫不講理又耍小手段.md",
+    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/［未處理］段落_6_小曜詭異的模樣.md",
+    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/情境_旅行篇_事件_遇上壞主人強奪小曜.md",
+    "_templates/故事模式Temp.md",
     "1-閃念筆記/對話紀錄(奴校).md",
-    "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_6_詭異的感覺.md",
+    "2-文獻筆記/python__delitem__方法详解.md",
+    "Pasted image 20230428164415.png",
+    "2-文獻筆記/python 中del 的用法.md",
+    "Pasted image 20230428163944.png",
+    "Pasted image 20230428163942.png",
     "conflict-files-obsidian-git.md",
+    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜",
+    "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md",
+    "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_6_詭異的感覺.md",
     "1-閃念筆記/20230425_blender探索/Blender.md",
     "1-閃念筆記/20230425_blender探索/Export XML from blender.md",
     "1-閃念筆記/未命名.canvas",
@@ -174,7 +218,6 @@
     "1-閃念筆記/20230425_blender探索",
     "Pasted image 20230425143703.png",
     "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_5_畸形聖母癌.md",
-    "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md",
     "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_2_主人生氣的模樣.md",
     "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_3_以太凝滯與突襲瞬殺.md",
     "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_4_主人收手.md",
@@ -186,23 +229,11 @@
     "未命名.canvas",
     "互動.md",
     "X-主題索引/Project S/未命名.md",
-    "未命名.md",
-    "1-閃念筆記/blender-bim-to-xml.md",
-    "1-閃念筆記/對話紀錄(遊戲).md",
-    "1-閃念筆記/B3D案例 - 解鎖BIM物體屬性並取得Tag.md",
-    "1-閃念筆記/未命名 2.md",
-    "1-閃念筆記/未命名.md",
-    "1-閃念筆記/20230211.md",
     "X-主題索引/小說/Project_S",
-    "1-閃念筆記/20230209.md",
-    "1-閃念筆記/20230205.md",
-    "1-閃念筆記/20230206.md",
-    "1-閃念筆記/20230207.md",
     "Pasted image 20230419161843.png",
     "Pasted image 20230419161829.png",
     "Pasted image 20230419155642.png",
     "Pasted image 20230419155353.png",
-    "2-文獻筆記/Pasted image 20230331154109.png",
     "未命名 1.canvas",
     "X-主題索引/AI",
     "X-主題索引/遊戲/Project_Espheory/未命名.canvas",
@@ -211,7 +242,6 @@
     "第一天 3",
     "未命名",
     "新文字文件.txt",
-    "X-主題索引/遊戲/Project_Espheory/遊戲模式管理",
-    "X-主題索引/遊戲/Project_Espheory/控制管理"
+    "X-主題索引/遊戲/Project_Espheory/遊戲模式管理"
   ]
 }
