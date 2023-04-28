@@ -4,5 +4,8 @@
   "showFrontmatter": true,
   "strictLineBreaks": false,
   "readableLineLength": false,
-  "foldHeading": true
+  "foldHeading": true,
+  "showIndentGuide": true,
+  "showLineNumber": false,
+  "rightToLeft": false
 }
