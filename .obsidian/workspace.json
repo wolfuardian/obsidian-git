@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c1747e68fd0e93c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X-主題索引/小說/Project_S/RAW/📄事件_遇上壞主人強奪小曜.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "e013ae598fde25d8",
             "type": "leaf",
             "pinned": true,
@@ -35,8 +21,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ed8a470075a30dfa",
@@ -45,7 +30,7 @@
           {
             "id": "ed59ee6a073973c0",
             "type": "tabs",
-            "dimension": 62.88461538461539,
+            "dimension": 49.23076923076923,
             "children": [
               {
                 "id": "400a1feea20dd98d",
@@ -66,7 +51,7 @@
           {
             "id": "5dac6f9b78ad9808",
             "type": "tabs",
-            "dimension": 37.11538461538461,
+            "dimension": 50.76923076923077,
             "children": [
               {
                 "id": "d5ad36d1e63cdc4b",
@@ -74,8 +59,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "X-主題索引/小說/Project_S/RAW/📄事件_遇上壞主人強奪小曜.md",
-                    "mode": "preview",
+                    "file": "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/🔖段落_3_凝滯的以太與主人的突襲.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -214,15 +199,15 @@
   },
   "active": "400a1feea20dd98d",
   "lastOpenFiles": [
+    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/🔖段落_3_凝滯的以太與主人的突襲.md",
     "X-主題索引/小說/Project_S/RAW/📄事件_遇上壞主人強奪小曜.md",
+    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/🔖段落_2_主人發火的模樣.md",
     "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/🔖段落_1_蠻橫不講理又耍小手段.md",
     "X-主題索引/小說/Project_S/📚故事材料.md",
     "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/📖情境_旅行篇.md",
     "1-閃念筆記/［未整理］對話紀錄.md",
     "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/🔖段落_6_小曜詭異的模樣.md",
-    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/🔖段落_2_主人發火的模樣.md",
     "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/🔖段落_4_在致命一擊之前收手.md",
-    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/🔖段落_3_凝滯的以太與主人的突襲.md",
     "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/🔖段落_5_對於不殺的執著.md",
     "互動.md",
     "X-主題索引/小說/Project_S/Project S.md",
