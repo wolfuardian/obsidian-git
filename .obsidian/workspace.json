@@ -30,7 +30,7 @@
           {
             "id": "ed59ee6a073973c0",
             "type": "tabs",
-            "dimension": 49.23076923076923,
+            "dimension": 73.36538461538461,
             "children": [
               {
                 "id": "400a1feea20dd98d",
@@ -51,7 +51,7 @@
           {
             "id": "5dac6f9b78ad9808",
             "type": "tabs",
-            "dimension": 50.76923076923077,
+            "dimension": 26.634615384615383,
             "children": [
               {
                 "id": "d5ad36d1e63cdc4b",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#event",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,7 +197,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "400a1feea20dd98d",
+  "active": "e013ae598fde25d8",
   "lastOpenFiles": [
     "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/🔖段落_3_凝滯的以太與主人的突襲.md",
     "X-主題索引/小說/Project_S/RAW/📄事件_遇上壞主人強奪小曜.md",
