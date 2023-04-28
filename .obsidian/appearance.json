@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "baseFontSize": 18,
-  "cssTheme": "Wasp",
-  "monospaceFontFamily": ".黑體UI-繁",
-  "textFontFamily": "華康中明體(P),華康仿宋體 Std",
-  "interfaceFontFamily": "華康標楷體 Std,華康中黑體外字集",
+  "baseFontSize": 16,
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "",
+  "textFontFamily": "華康儷宋 Std,華康楷書體 Std",
+  "interfaceFontFamily": "華康標宋體 Std",
   "enabledCssSnippets": [
     "test"
   ]
