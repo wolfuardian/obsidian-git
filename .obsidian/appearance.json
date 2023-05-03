@@ -3,8 +3,8 @@
   "baseFontSize": 24,
   "cssTheme": "Minimal",
   "monospaceFontFamily": "",
-  "textFontFamily": "華康儷宋 Std,華康楷書體 Std",
-  "interfaceFontFamily": "華康標宋體 Std",
+  "textFontFamily": "文泉驛點陣正黑,華康榜書體 Std W8,雅坊美工12,華康楷書體 Std,華康儷宋 Std",
+  "interfaceFontFamily": "雅坊美工12,華康標宋體 Std",
   "enabledCssSnippets": [
     "test"
   ]
