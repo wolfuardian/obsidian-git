@@ -21,16 +21,25 @@
                     "id": "e013ae598fde25d8",
                     "type": "leaf",
                     "state": {
+                      "type": "graph",
+                      "state": {}
+                    },
+                    "group": "e3c304c81289a27b"
+                  },
+                  {
+                    "id": "61ced69e03b90e2e",
+                    "type": "leaf",
+                    "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "X-主題索引/小說/Project S/💠故事材料/🔖段落_3_凝滯的以太與主人的突襲.md",
+                        "file": "X-主題索引/小說/Project S/⏺組織圖/未命名.md",
                         "mode": "source",
                         "source": false
                       }
-                    },
-                    "group": "e3c304c81289a27b"
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "64be92ed74737cee",
@@ -137,13 +146,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "88453b367989e94f",
@@ -159,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X-主題索引/小說/Project S/💠故事材料/🔖段落_3_凝滯的以太與主人的突襲.md",
+                "file": "X-主題索引/小說/Project S/⏺組織圖/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X-主題索引/小說/Project S/💠故事材料/🔖段落_3_凝滯的以太與主人的突襲.md",
+                "file": "X-主題索引/小說/Project S/⏺組織圖/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X-主題索引/小說/Project S/💠故事材料/🔖段落_3_凝滯的以太與主人的突襲.md"
+                "file": "X-主題索引/小說/Project S/⏺組織圖/未命名.md"
               }
             }
           }
@@ -222,8 +229,11 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "e013ae598fde25d8",
+  "active": "004042de27073288",
   "lastOpenFiles": [
+    "X-主題索引/小說/Project S/🏠首頁.md",
+    "X-主題索引/小說/Project S/⏺組織圖/未命名.md",
+    "X-主題索引/小說/Project S/⏺組織圖",
     "X-主題索引/小說/Project S/💠故事材料/🔖段落_3_凝滯的以太與主人的突襲.md",
     "X-主題索引/小說/Project S/💠故事材料/📄事件_遇上壞主人強奪小曜.md",
     "微型機關.md",
@@ -238,7 +248,6 @@
     "X-主題索引/小說/Project S/💠故事材料/🔖段落_4_在致命一擊之前收手.md",
     "易主證明.md",
     "壞主人.md",
-    "X-主題索引/小說/Project S/🏠首頁.md",
     "1-閃念筆記/節目教學，日本燒烤.md",
     "1-閃念筆記/節目教學，燒烤.md",
     "1-閃念筆記/未命名 4.md",
@@ -255,9 +264,7 @@
     "2-文獻筆記/python 中del 的用法.md",
     "Pasted image 20230428163944.png",
     "Pasted image 20230428163942.png",
-    "conflict-files-obsidian-git.md",
     "X-主題索引/小說/📙Project S/📚故事資料彙整/旅行篇_遇到壞主人要搶回小曜",
-    "X-主題索引/小說/Project_S/RAW/RAW_情境_旅行篇_遇到壞主人要搶回小曜_1_壞蛋要求決鬥卻耍陰招.md",
     "1-閃念筆記/未命名.canvas",
     "XML.svg",
     "OBJECT.svg",
@@ -272,7 +279,6 @@
     "Pasted image 20230419155642.png",
     "Pasted image 20230419155353.png",
     "未命名 1.canvas",
-    "X-主題索引/AI",
     "X-主題索引/遊戲/Project_Espheory/未命名.canvas",
     "X-主題索引/遊戲/Project_Espheory/行為模式.canvas",
     "未命名/未命名.canvas"
