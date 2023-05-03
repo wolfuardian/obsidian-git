@@ -217,13 +217,15 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "obsidian-stille:Toggle Stille": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
   "active": "e013ae598fde25d8",
   "lastOpenFiles": [
-    "X-主題索引/小說/Project S/💠故事材料/📄事件_遇上壞主人強奪小曜.md",
     "X-主題索引/小說/Project S/💠故事材料/🔖段落_3_凝滯的以太與主人的突襲.md",
+    "X-主題索引/小說/Project S/💠故事材料/📄事件_遇上壞主人強奪小曜.md",
     "微型機關.md",
     "X-主題索引/小說/Project S/💠故事材料/🔖段落_1_蠻橫不講理又耍小手段.md",
     "X-主題索引/小說/Project S/💠故事材料/🔖段落_2_主人發火的模樣.md",
