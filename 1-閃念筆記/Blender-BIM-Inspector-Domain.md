@@ -1,0 +1,3 @@
+1. 檢查是否已載入 BlenderBIM Addon...
+2. 檢查場景中是否有 BIM Project (IFC only now)
+

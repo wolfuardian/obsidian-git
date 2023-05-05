@@ -4,113 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b55419d327a5d3aa",
-        "type": "split",
+        "id": "a8f20a20f7145e81",
+        "type": "tabs",
         "children": [
           {
-            "id": "a63070e3ddba972d",
-            "type": "split",
-            "dimension": 80.76923076923077,
-            "children": [
-              {
-                "id": "a8f20a20f7145e81",
-                "type": "tabs",
-                "dimension": 67.82115869017632,
-                "children": [
-                  {
-                    "id": "e013ae598fde25d8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    },
-                    "group": "e3c304c81289a27b"
-                  },
-                  {
-                    "id": "61ced69e03b90e2e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "X-主題索引/小說/Project S/⏺組織圖/未命名.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "454ba3919fd2a725",
-                    "type": "leaf",
-                    "state": {
-                      "type": "release-notes",
-                      "state": {
-                        "currentVersion": "1.2.7"
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 2
-              },
-              {
-                "id": "64be92ed74737cee",
-                "type": "tabs",
-                "dimension": 32.17884130982368,
-                "children": [
-                  {
-                    "id": "e7fdd498ccca2dce",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "X-主題索引/小說/Project S/💠故事材料/🔖段落_3_凝滯的以太與主人的突襲.md",
-                        "mode": "preview",
-                        "source": false
-                      }
-                    },
-                    "group": "e3c304c81289a27b"
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
+            "id": "e013ae598fde25d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           },
           {
-            "id": "b93c98b406e93522",
-            "type": "tabs",
-            "dimension": 19.230769230769234,
-            "children": [
-              {
-                "id": "b0b342844a7915c7",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "X-主題索引/小說/Project S/💠故事材料/📄事件_遇上壞主人強奪小曜.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "aa00fda3171cf737",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-閃念筆記/［未整理］對話紀錄.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
+            "id": "61ced69e03b90e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-閃念筆記/Blender-BIM-Inspector-Domain.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X-主題索引/小說/Project S/⏺組織圖/未命名.md",
+                "file": "1-閃念筆記/Blender-BIM-Inspector-Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X-主題索引/小說/Project S/⏺組織圖/未命名.md",
+                "file": "1-閃念筆記/Blender-BIM-Inspector-Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X-主題索引/小說/Project S/⏺組織圖/未命名.md"
+                "file": "1-閃念筆記/Blender-BIM-Inspector-Domain.md"
               }
             }
           }
@@ -247,10 +165,11 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "454ba3919fd2a725",
+  "active": "61ced69e03b90e2e",
   "lastOpenFiles": [
-    "X-主題索引/小說/Project S/🏠首頁.md",
     "X-主題索引/小說/Project S/⏺組織圖/未命名.md",
+    "1-閃念筆記/Blender-BIM-Inspector-Domain.md",
+    "X-主題索引/小說/Project S/🏠首頁.md",
     "X-主題索引/小說/Project S/⏺組織圖",
     "X-主題索引/小說/Project S/💠故事材料/🔖段落_3_凝滯的以太與主人的突襲.md",
     "X-主題索引/小說/Project S/💠故事材料/📄事件_遇上壞主人強奪小曜.md",
@@ -268,7 +187,6 @@
     "壞主人.md",
     "1-閃念筆記/節目教學，日本燒烤.md",
     "1-閃念筆記/節目教學，燒烤.md",
-    "1-閃念筆記/未命名 4.md",
     "X-主題索引/小說/Project S/💠故事材料",
     "X-主題索引/小說/Project S",
     "X-主題索引/小說/📙Project S/📚故事資料彙整/📖情境_旅行篇/📄事件_遇上壞主人強奪小曜",
