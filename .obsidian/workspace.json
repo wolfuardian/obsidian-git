@@ -37,9 +37,19 @@
                         "source": false
                       }
                     }
+                  },
+                  {
+                    "id": "454ba3919fd2a725",
+                    "type": "leaf",
+                    "state": {
+                      "type": "release-notes",
+                      "state": {
+                        "currentVersion": "1.2.7"
+                      }
+                    }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               },
               {
                 "id": "64be92ed74737cee",
@@ -145,6 +155,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b511cacd4b447669",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -229,7 +247,7 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "004042de27073288",
+  "active": "454ba3919fd2a725",
   "lastOpenFiles": [
     "X-主題索引/小說/Project S/🏠首頁.md",
     "X-主題索引/小說/Project S/⏺組織圖/未命名.md",
