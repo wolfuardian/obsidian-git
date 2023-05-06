@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-閃念筆記/未命名.md",
+                "file": "2-文獻筆記/燒烤.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "36fb450a89613c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-閃念筆記/未命名 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75dc5c3a79cd455f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 17.22.11.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 17.22.11.excalidraw.md",
+                "file": "2-文獻筆記/燒烤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 17.22.11.excalidraw.md",
+                "file": "2-文獻筆記/燒烤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-06 17.22.11.excalidraw.md"
+                "file": "2-文獻筆記/燒烤.md"
               }
             }
           }
@@ -177,21 +154,29 @@
       "command-palette:開啟命令面板": false,
       "obsidian-stille:Toggle Stille": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "75dc5c3a79cd455f",
+  "active": "e013ae598fde25d8",
   "lastOpenFiles": [
-    "1-閃念筆記/未命名 2.md",
-    "Excalidraw/Drawing 2023-05-06 17.22.11.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-06 17.22.02.excalidraw.md",
-    "1-閃念筆記/未命名.md",
-    "Excalidraw",
-    "1-閃念筆記/未命名 1.md",
+    "2-文獻筆記/python__delitem__方法详解.md",
+    "2-文獻筆記/燒烤.md",
+    "2-文獻筆記/python 中del 的用法.md",
+    "6 永久筆記",
+    "1-閃念筆記/路徑.md",
+    "1-閃念筆記/對話紀錄(遊戲).md",
+    "1-閃念筆記/20230425_blender探索/Blender.md",
     "1-閃念筆記/未命名.canvas",
+    "1-閃念筆記/一分鐘快速了解手機如何傳送檔案.md",
+    "1-閃念筆記/未命名.md",
+    "1-閃念筆記/未命名 1.md",
+    "Excalidraw/Drawing 2023-05-06 17.22.11.excalidraw.md",
+    "1-閃念筆記/未命名 2.md",
+    "Excalidraw/Drawing 2023-05-06 17.22.02.excalidraw.md",
+    "Excalidraw",
     "1-閃念筆記/小曜趁最後主人不在地牢的幾天，誠心向腦海裡的火神`埃格勒（Aegle）`觀禮.md",
     "1-閃念筆記/互動.md",
-    "1-閃念筆記/一分鐘快速了解手機如何傳送檔案.md",
     "1-閃念筆記/20230404.md",
     "1-閃念筆記/20230205.md",
     "1-閃念筆記/20230206.md",
@@ -204,13 +189,7 @@
     "1-閃念筆記/blender-bim-to-xml.md",
     "1-閃念筆記/核心網路（Core Network）.md",
     "X-主題索引/小說/Project S/💠故事材料/🔖段落_4_在致命一擊之前收手.md",
-    "X-主題索引/小說/Project S/💠故事材料/🔖段落_2_主人發火的模樣.md",
-    "X-主題索引/小說/Project S/💠故事材料/📚故事資料彙整.md",
-    "X-主題索引/小說/Project S/💠故事材料/📖情境_旅行篇.md",
-    "X-主題索引/小說/Project S/⏺組織圖/未命名.md",
-    "X-主題索引/小說/Project S/🏠首頁.md",
     "X-主題索引/小說/Project S/⏺組織圖",
-    "X-主題索引/小說/Project S/💠故事材料/🔖段落_3_凝滯的以太與主人的突襲.md",
     "X-主題索引/小說/Project S/💠故事材料",
     "X-主題索引/小說/Project S",
     "X-主題索引/小說/📙Project S/📚故事資料彙整/📖情境_旅行篇/📄事件_遇上壞主人強奪小曜",
@@ -224,7 +203,6 @@
     "1-閃念筆記/20230425_blender探索",
     "Pasted image 20230425143703.png",
     "X-主題索引/小說/📙Project S/📚故事資料彙整",
-    "X-主題索引/小說",
     "未命名.canvas",
     "Pasted image 20230419161843.png",
     "Pasted image 20230419161829.png",
