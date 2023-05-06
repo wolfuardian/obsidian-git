@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-閃念筆記/Blender-BIM-Inspector-Domain.md",
+                "file": "1-閃念筆記/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "36fb450a89613c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-閃念筆記/未命名 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75dc5c3a79cd455f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-06 17.22.11.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/Blender-BIM-Inspector-Domain.md",
+                "file": "Excalidraw/Drawing 2023-05-06 17.22.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/Blender-BIM-Inspector-Domain.md",
+                "file": "Excalidraw/Drawing 2023-05-06 17.22.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/Blender-BIM-Inspector-Domain.md"
+                "file": "Excalidraw/Drawing 2023-05-06 17.22.11.excalidraw.md"
               }
             }
           }
@@ -154,47 +176,49 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "obsidian-stille:Toggle Stille": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e013ae598fde25d8",
+  "active": "75dc5c3a79cd455f",
   "lastOpenFiles": [
+    "1-閃念筆記/未命名 2.md",
+    "Excalidraw/Drawing 2023-05-06 17.22.11.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-06 17.22.02.excalidraw.md",
+    "1-閃念筆記/未命名.md",
+    "Excalidraw",
+    "1-閃念筆記/未命名 1.md",
+    "1-閃念筆記/未命名.canvas",
+    "1-閃念筆記/小曜趁最後主人不在地牢的幾天，誠心向腦海裡的火神`埃格勒（Aegle）`觀禮.md",
+    "1-閃念筆記/互動.md",
+    "1-閃念筆記/一分鐘快速了解手機如何傳送檔案.md",
+    "1-閃念筆記/20230404.md",
+    "1-閃念筆記/20230205.md",
+    "1-閃念筆記/20230206.md",
+    "1-閃念筆記/［未整理］對話紀錄.md",
+    "1-閃念筆記/20230209.md",
+    "1-閃念筆記/20230211.md",
+    "1-閃念筆記/20230212.md",
     "1-閃念筆記/Blender-BIM-Inspector-Domain.md",
+    "未命名 1.md",
     "1-閃念筆記/blender-bim-to-xml.md",
     "1-閃念筆記/核心網路（Core Network）.md",
-    "1-閃念筆記/［未整理］對話紀錄.md",
     "X-主題索引/小說/Project S/💠故事材料/🔖段落_4_在致命一擊之前收手.md",
     "X-主題索引/小說/Project S/💠故事材料/🔖段落_2_主人發火的模樣.md",
     "X-主題索引/小說/Project S/💠故事材料/📚故事資料彙整.md",
     "X-主題索引/小說/Project S/💠故事材料/📖情境_旅行篇.md",
     "X-主題索引/小說/Project S/⏺組織圖/未命名.md",
-    "1-閃念筆記/20230206.md",
     "X-主題索引/小說/Project S/🏠首頁.md",
     "X-主題索引/小說/Project S/⏺組織圖",
     "X-主題索引/小說/Project S/💠故事材料/🔖段落_3_凝滯的以太與主人的突襲.md",
-    "X-主題索引/小說/Project S/💠故事材料/📄事件_遇上壞主人強奪小曜.md",
-    "微型機關.md",
-    "X-主題索引/小說/Project S/💠故事材料/🔖段落_1_蠻橫不講理又耍小手段.md",
-    "某個教團成員.md",
-    "X-主題索引/小說/Project S/💠故事材料/🔖段落_6_小曜詭異的模樣.md",
-    "X-主題索引/小說/Project S/💠故事材料/🔖段落_5_對於不殺的執著.md",
-    "易主證明.md",
-    "壞主人.md",
-    "1-閃念筆記/節目教學，日本燒烤.md",
-    "1-閃念筆記/節目教學，燒烤.md",
     "X-主題索引/小說/Project S/💠故事材料",
     "X-主題索引/小說/Project S",
     "X-主題索引/小說/📙Project S/📚故事資料彙整/📖情境_旅行篇/📄事件_遇上壞主人強奪小曜",
     "X-主題索引/小說/📙Project S/📚故事資料彙整/📖情境_旅行篇",
-    "互動.md",
-    "想法 想做的事.md",
-    "X-主題索引/小說/Project_S/RAW/旅行篇_遇到壞主人要搶回小曜/情境_旅行篇_事件_遇上壞主人強奪小曜.md",
-    "_templates/故事模式Temp.md",
     "Pasted image 20230428164415.png",
     "Pasted image 20230428163944.png",
     "Pasted image 20230428163942.png",
     "X-主題索引/小說/📙Project S/📚故事資料彙整/旅行篇_遇到壞主人要搶回小曜",
-    "1-閃念筆記/未命名.canvas",
     "XML.svg",
     "OBJECT.svg",
     "1-閃念筆記/20230425_blender探索",
@@ -202,7 +226,6 @@
     "X-主題索引/小說/📙Project S/📚故事資料彙整",
     "X-主題索引/小說",
     "未命名.canvas",
-    "X-主題索引/小說/Project S",
     "Pasted image 20230419161843.png",
     "Pasted image 20230419161829.png",
     "Pasted image 20230419155642.png",
