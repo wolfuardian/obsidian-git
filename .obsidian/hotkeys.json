@@ -1,1 +1,10 @@
-{}
+{
+  "obsidian-prozen:zenmode": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ]
+}

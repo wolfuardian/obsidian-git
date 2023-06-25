@@ -13,24 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-文獻筆記/Git/Git commit guide - emoji.md",
+                "file": "1-閃念筆記/見面-主人來台旅程.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b1bca552653ad047",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "5-專案筆記/工具/blender-bim-inspector/Mindmap - blender-bim-inspector.canvas",
-                "viewState": {
-                  "x": -2295.3619811951135,
-                  "y": 487.34558396568707,
-                  "zoom": 0.5690708276908276
-                }
               }
             }
           }
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-文獻筆記/Git/Git commit guide - emoji.md",
+                "file": "1-閃念筆記/見面-主人來台旅程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-文獻筆記/Git/Git commit guide - emoji.md",
+                "file": "1-閃念筆記/見面-主人來台旅程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-文獻筆記/Git/Git commit guide - emoji.md"
+                "file": "1-閃念筆記/見面-主人來台旅程.md"
               }
             }
           },
@@ -176,20 +161,35 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-stille:Toggle Stille": false
     }
   },
-  "active": "e3d5b2678f51c81c",
+  "active": "ac991db91287319c",
   "lastOpenFiles": [
+    "1-閃念筆記/著迷世界遊戲論.md",
+    "1-閃念筆記/故事架構.md",
+    "1-閃念筆記/未命名 3.md",
+    "1-閃念筆記/穿衣哲學.md",
+    "1-閃念筆記/核心網路（Core Network）.md",
+    "1-閃念筆記/未命名 2.md",
+    "1-閃念筆記/未命名 1.canvas",
+    "1-閃念筆記/未命名 1.md",
+    "X-主題索引/小說/Project S/💠故事材料/🔖段落_2_主人發火的模樣.md",
+    "Excalidraw/Drawing 2023-06-26 02.33.31.excalidraw.md",
+    "Excalidraw",
+    "X-主題索引/小說/Project S/💠故事材料/📄事件_遇上壞主人強奪小曜.md",
+    "X-主題索引/小說/Project S/💠故事材料/📖情境_旅行篇.md",
+    "X-主題索引/小說/Project S/💠故事材料/📚故事資料彙整.md",
+    "X-主題索引/小說/Project S/💠故事材料/🔖段落_3_凝滯的以太與主人的突襲.md",
+    "2-文獻筆記/Git/Git commit guide - emoji.md",
     "5-專案筆記/工具/blender-bim-inspector/Mindmap - blender-bim-inspector.canvas",
     "未命名 3.md",
-    "2-文獻筆記/Git/Git commit guide - emoji.md",
     "X-主題索引/小說/Project S/知乎問答：.md",
     "5-專案筆記/NADI/ServerRoom-CFD-Demo.md",
     "5-專案筆記/NADI/工作紀錄-05.md",
     "1-閃念筆記/憂鬱症-戰勝憂鬱症.md",
-    "1-閃念筆記/故事架構.md",
-    "1-閃念筆記/核心網路（Core Network）.md",
     "1-閃念筆記/__閃念筆記__.md",
     "BANNNN.md",
     "Pasted image 20230606160926.png",
@@ -205,20 +205,9 @@
     "3-技術資訊/未命名.md",
     "2-文獻筆記/Parsing Json files.md",
     "5-專案筆記/NADI",
-    "1-閃念筆記/穿衣哲學.md",
-    "1-閃念筆記/未命名 1.canvas",
-    "1-閃念筆記/Blender-BIM-Inspector-Domain.md",
-    "2-文獻筆記/Coding Conventions by SisusCo.md",
-    "2-文獻筆記/Character bones that look like Openpose for blender _ Ver_9 Depth+Canny+Landmark+MediaPipeFace+finger.md",
     "5-專案筆記/Unity - CFD - Solutions/SolutionMap.canvas",
-    "5-專案筆記/Unity - CFD - Solutions/未命名.md",
     "5-專案筆記/Unity - CFD - Solutions",
-    "Z-索引筆記/索引-2-文獻筆記.md",
-    "Z-索引筆記/索引-5-專案筆記.md",
-    "1-閃念筆記/未命名 1.md",
     "1-閃念筆記/未命名.canvas",
-    "Z-索引筆記/索引-6-永久筆記.md",
-    "Z-索引筆記/__根目錄索引__.md",
     "6 永久筆記/萬象論",
     "6 永久筆記/萬象論/元素",
     "5-專案筆記/工具/blender-bim-inspector",
@@ -227,7 +216,6 @@
     "X-主題索引/工具/blender-bim-inspector/Mindmap - blender-bim-inspector.canvas",
     "X-主題索引/工具/blender-bim-inspector",
     "X-主題索引/工具/未命名",
-    "X-主題索引/工具",
     "X-主題索引/Mindmap - blender-bim-inspector.canvas",
     "1-閃念筆記/Mindmap - blender-bim-inspector.canvas",
     "Pasted image 20230510185931.png",

@@ -1,5 +1,4 @@
 [
-  "obsidian-focus-mode",
   "better-word-count",
   "obsidian-checklist-plugin",
   "dataview",
@@ -9,5 +8,10 @@
   "obsidian-linter",
   "obsidian-mind-map",
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-outliner",
+  "obsidian-prozen",
+  "quickadd",
+  "obsidian-timelines",
+  "obsidian-stille"
 ]
