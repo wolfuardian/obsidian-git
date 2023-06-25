@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "baseFontSize": 21,
   "cssTheme": "Minimal",
+  "interfaceFontFamily": "",
+  "baseFontSize": 19,
   "monospaceFontFamily": "",
-  "textFontFamily": "文泉驛點陣正黑,華康榜書體 Std W8,雅坊美工12,華康楷書體 Std,華康儷宋 Std",
-  "interfaceFontFamily": "雅坊美工12,華康標宋體 Std",
+  "textFontFamily": "等距更紗黑體 TC",
   "enabledCssSnippets": [
     "test"
   ]

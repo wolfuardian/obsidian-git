@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"group","id":"14ddb9fc8fcf097c","x":2360,"y":-720,"width":664,"height":420,"label":"is_valid(obj)"},
+		{"type":"group","id":"7dc40e8edec775aa","x":2360,"y":-1200,"width":545,"height":360,"label":"get_objects()"},
+		{"type":"text","text":"```\nProp\n```\n```\n存取範圍\ncontext.scene.{Properties}\nfrom . import data\ntool","id":"765abb464e617573","x":820,"y":-860,"width":340,"height":220,"color":"4"},
+		{"type":"text","text":"```\nUI\n```\n```\n存取範圍\ncontext.scene.{Properties}\nfrom . import data\ntool\n```\n","id":"2e1957f9174f4836","x":1180,"y":-860,"width":340,"height":220,"color":"5"},
+		{"type":"text","text":"```\nOperator\n```\n```\n存取範圍\ncontext.scene.{Properties}\ntool\n```","id":"fe13c376ac7597d4","x":460,"y":-860,"width":340,"height":220,"color":"3"},
+		{"type":"text","text":"```\nData\n```\n```\n存取範圍\ntool\n```","id":"d485be8c33d8fb72","x":100,"y":-860,"width":340,"height":180,"color":"1"},
+		{"type":"text","text":"XMLStore\n>`purge()`\n>`setup_root()` -> `Element`\n>`write()`","id":"7f8efad709866e08","x":-50,"y":-478,"width":280,"height":140,"color":"1"},
+		{"type":"text","text":"`NSP_PT_load`","id":"517e5158c0df4616","x":470,"y":-433,"width":160,"height":55,"color":"5"},
+		{"type":"text","text":"`NSP_PT_parser`\n>分析 ifc 物件\n>`Enum::selected_root`","id":"5583463659636758","x":1450,"y":-408,"width":240,"height":100,"color":"5"},
+		{"type":"text","text":"`NSP_PT_quickview`\n>快速導覽 ifc 集合\n>`Enum::ifc_project`\n>`Enum::ifc_site`\n>`Enum::ifc_building`\n>`Enum::ifc_building_storey`","id":"ebb41aab83affe60","x":1450,"y":-600,"width":280,"height":173,"color":"5"},
+		{"type":"text","text":"`IfcObjectProperties`\n>`Enum::ifc_project`\n>`Enum::ifc_site`\n>`Enum::ifc_building`\n>`Enum::ifc_building_storey`\n>`Enum::selected_root`","id":"5221fc75d42843d6","x":930,"y":-528,"width":340,"height":170,"color":"4"},
+		{"type":"file","file":"Pasted image 20230526183054.png","id":"0547c866c8703608","x":2940,"y":-1200,"width":351,"height":360},
+		{"type":"text","text":"```python\nimport bpy\n\nfor obj in bpy.data.objects:\n    print(obj.name)\n```\n","id":"6e77000f37ff6593","x":2540,"y":-1180,"width":345,"height":320},
+		{"type":"text","text":"取得所有物體\n","id":"69d63cc8399ae01d","x":2376,"y":-1180,"width":144,"height":320},
+		{"type":"file","file":"Pasted image 20230526183718.png","id":"e15634dd28e17c68","x":3680,"y":-564,"width":421,"height":420},
+		{"id":"568f94048fef2e62","x":3060,"y":-720,"width":421,"height":420,"type":"file","file":"Pasted image 20230526195240.png"},
+		{"type":"text","text":"區分出符合 schema 的物體","id":"f8f76711612fbe34","x":2380,"y":-700,"width":144,"height":380},
+		{"type":"text","text":"```python\nparts: list = obj.name.split('@')\n```\n```python\n# 不合規範之命名 \nif len(parts) >= 6 or len(parts) == 4:  \n\treturn \"Invalid Format\"\n  \n# 設備  \nif len(parts) == 5:  \n\treturn \"Device\"\n  \n# When is floor  \nif len(parts) == 1:  \n\tif obj.name.startswith(\"樓層\"):  \n\t\treturn \"Floor\"\n\telse:  \n\t\treturn \"Unknown Format\"","id":"a4beb9a77b036411","x":2544,"y":-700,"width":460,"height":380}
+	],
+	"edges":[
+		{"id":"e8efc65bc402430a","fromNode":"517e5158c0df4616","fromSide":"left","toNode":"7f8efad709866e08","toSide":"right","label":"Operator"},
+		{"id":"df3fee410b21aa33","fromNode":"5221fc75d42843d6","fromSide":"right","toNode":"ebb41aab83affe60","toSide":"left"},
+		{"id":"8fa628f817376589","fromNode":"5221fc75d42843d6","fromSide":"right","toNode":"5583463659636758","toSide":"left"},
+		{"id":"7b87a1458ea84d1c","fromNode":"0547c866c8703608","fromSide":"left","toNode":"7dc40e8edec775aa","toSide":"right"},
+		{"id":"edaa52eb142b8596","fromNode":"568f94048fef2e62","fromSide":"left","toNode":"14ddb9fc8fcf097c","toSide":"right"}
+	]
+}

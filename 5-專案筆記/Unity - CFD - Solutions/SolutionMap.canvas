@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"type":"group","id":"6ec3ffdbfc18bee3","x":-220,"y":-1000,"width":2520,"height":360,"color":"6","label":"SOLUTION"},
+		{"type":"group","id":"3b8e37e081331815","x":1100,"y":-920,"width":1140,"height":240,"color":"2","label":"TOUGH（不考慮）"},
+		{"type":"group","id":"8f86ac8aa4d45709","x":-120,"y":-860,"width":220,"height":720,"color":"1","label":"自定義點雲"},
+		{"type":"group","id":"698d863a4c9a3bd1","x":160,"y":-860,"width":220,"height":720,"color":"1","label":"檔案讀寫"},
+		{"type":"group","id":"94b7c7b3aa1ff0c0","x":480,"y":-860,"width":220,"height":720,"color":"5","label":"進行中"},
+		{"type":"group","id":"e4e09844717c22f4","x":760,"y":-860,"width":220,"height":720,"color":"5","label":"進行中"},
+		{"type":"group","id":"39a9eeb1c5b8d98c","x":1140,"y":-860,"width":220,"height":720,"color":"5","label":"進行中"},
+		{"type":"group","id":"81e758bb4116be68","x":1420,"y":-860,"width":220,"height":720,"label":"未命名的群組"},
+		{"type":"group","id":"15b9d5cde1e0bc58","x":1700,"y":-860,"width":220,"height":720,"label":"未命名的群組"},
+		{"type":"group","id":"b640a88cfaee6bd6","x":1980,"y":-860,"width":220,"height":720,"label":"未命名的群組"},
+		{"type":"group","id":"bfc483ce1dcbd9ec","x":-160,"y":-920,"width":580,"height":240,"color":"4","label":"DOABLE"},
+		{"type":"group","id":"8e6d080b0109a199","x":440,"y":-920,"width":580,"height":240,"color":"3","label":"TRICKY"},
+		{"type":"text","text":"Unity VFX","id":"a0c737c0888d2942","x":-80,"y":-800,"width":140,"height":60,"color":"1"},
+		{"type":"text","text":"Pro:\n效能好\n可控制入微\n粒子系統","id":"56ca7b79bad60790","x":-80,"y":-600,"width":140,"height":160},
+		{"type":"text","text":"USD Mesh","id":"c50efcf1c7371d98","x":200,"y":-800,"width":140,"height":60,"color":"1"},
+		{"type":"text","text":"Pro:\n可以在別的軟體做完後才匯進來","id":"2d07931cd0e97df7","x":200,"y":-600,"width":140,"height":160},
+		{"type":"text","text":"VAT (.hlsl)","id":"0d98c44cd9683bbf","x":520,"y":-800,"width":140,"height":60,"color":"6"},
+		{"type":"text","text":"LineRenderer","id":"9d59610340b4bdc4","x":800,"y":-800,"width":140,"height":60,"color":"6"},
+		{"type":"text","text":".cginc","id":"6233aa62893a4d79","x":1180,"y":-800,"width":140,"height":60,"color":"6"},
+		{"type":"text","text":"2DImageCard","id":"5cdf9aea5c575008","x":1460,"y":-800,"width":140,"height":60,"color":"6"},
+		{"type":"text","text":"Pro:\n就是 Houdini 的特效輸出高級方法","id":"4f05ff4bd1809e3f","x":520,"y":-600,"width":140,"height":160},
+		{"type":"text","text":"Con:\n如果要匯入點雲，必須使用Point Cache Asset","id":"e9fb1aea57aa798f","x":-80,"y":-360,"width":140,"height":160},
+		{"type":"text","text":"Con: \n太重\n不可修改","id":"ce4c97bae58d29ef","x":200,"y":-360,"width":140,"height":160},
+		{"type":"text","text":"Pro:\n可以用更 Json 來生呈線段","id":"bdc91407831f5df2","x":800,"y":-600,"width":140,"height":160},
+		{"type":"text","text":"Procedural Shader","id":"ac0b8198c6477600","x":1720,"y":-800,"width":180,"height":60,"color":"6"},
+		{"type":"text","text":"3rd Package","id":"d71d0405bb3a7ea7","x":2020,"y":-800,"width":140,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"d8e2b13eee688b16","fromNode":"a0c737c0888d2942","fromSide":"bottom","toNode":"56ca7b79bad60790","toSide":"top"},
+		{"id":"8bbd59085c5c3ab2","fromNode":"c50efcf1c7371d98","fromSide":"bottom","toNode":"2d07931cd0e97df7","toSide":"top"},
+		{"id":"a375f6349e1651ba","fromNode":"0d98c44cd9683bbf","fromSide":"bottom","toNode":"4f05ff4bd1809e3f","toSide":"top"},
+		{"id":"4c1ab1c9db5f758b","fromNode":"56ca7b79bad60790","fromSide":"bottom","toNode":"e9fb1aea57aa798f","toSide":"top"},
+		{"id":"784b9f680e22ccda","fromNode":"2d07931cd0e97df7","fromSide":"bottom","toNode":"ce4c97bae58d29ef","toSide":"top"},
+		{"id":"7c6382e94bce7347","fromNode":"9d59610340b4bdc4","fromSide":"bottom","toNode":"bdc91407831f5df2","toSide":"top"}
+	]
+}

@@ -1,0 +1,1 @@
+譯自英文-Miro，以前稱為RealtimeBoard，是一種數字協作平台，旨在促進遠程和分佈式團隊溝通和項目管理。它由“ RealtimeBoard，Inc.”開發。該公司由Andrey Khusid和Oleg Shardin於2011年創立，總部位於舊金山和阿姆斯特丹。

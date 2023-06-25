@@ -1,0 +1,2 @@
+Attribute: {'type': 'device', 'category': '0', 'name': ['$設備', '1000KW發電機用冷卻水泵浦', 'PMP', '004'], 'id': 'id', 'model': 'model'}  Transform: {'position': {'x': '0', 'y': '0', 'z': '0'}, 'rotation': {'x': '0', 'y': '0', 'z': '0'}, 'scale': {'x': '1', 'y': '1', 'z': '1'}}
+![[Pasted image 20230606160926.png]]

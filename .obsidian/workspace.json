@@ -4,53 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a8f20a20f7145e81",
+        "id": "6ad7609f03de0f15",
         "type": "tabs",
         "children": [
           {
-            "id": "e013ae598fde25d8",
+            "id": "ac991db91287319c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-投資理財/服務付款.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "ed77b89e814233d2"
-          },
-          {
-            "id": "a4ee7ddbb2b1592e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-投資理財/💸Miro.md",
+                "file": "2-文獻筆記/Git/Git commit guide - emoji.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7906543fc29a4d2b",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6a4c12a9ad79a0ce",
+            "id": "b1bca552653ad047",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "4-投資理財/服務付款.md",
-                "mode": "preview",
-                "source": false
+                "file": "5-專案筆記/工具/blender-bim-inspector/Mindmap - blender-bim-inspector.canvas",
+                "viewState": {
+                  "x": -2295.3619811951135,
+                  "y": 487.34558396568707,
+                  "zoom": 0.5690708276908276
+                }
               }
-            },
-            "group": "ed77b89e814233d2"
+            }
           }
         ]
       }
@@ -81,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#📎狀態/💠待就緒",
+                "query": "tag:#📎消費",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 281.5
   },
   "right": {
     "id": "88453b367989e94f",
@@ -126,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-投資理財/💸Miro.md",
+                "file": "2-文獻筆記/Git/Git commit guide - emoji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-投資理財/💸Miro.md",
+                "file": "2-文獻筆記/Git/Git commit guide - emoji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,16 +148,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-投資理財/💸Miro.md"
+                "file": "2-文獻筆記/Git/Git commit guide - emoji.md"
               }
+            }
+          },
+          {
+            "id": "e3d5b2678f51c81c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,65 +176,65 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "obsidian-stille:Toggle Stille": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "dbfolder:Create a new database table": false
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "a4ee7ddbb2b1592e",
+  "active": "e3d5b2678f51c81c",
   "lastOpenFiles": [
-    "4-投資理財/服務付款.md",
-    "4-投資理財/💸Miro.md",
+    "5-專案筆記/工具/blender-bim-inspector/Mindmap - blender-bim-inspector.canvas",
+    "未命名 3.md",
+    "2-文獻筆記/Git/Git commit guide - emoji.md",
     "X-主題索引/小說/Project S/知乎問答：.md",
-    "互動.md",
-    "1-閃念筆記/事件經過.md",
-    "1-閃念筆記/未命名 3.md",
-    "1-閃念筆記/未命名.canvas",
-    "1-閃念筆記/B3D案例 - 解鎖BIM物體屬性並取得Tag.md",
-    "1-閃念筆記/__閃念筆記__.md",
-    "1-閃念筆記/未命名 2.md",
-    "1-閃念筆記/未命名.md",
-    "1-閃念筆記/未命名 1.md",
-    "1-閃念筆記/一分鐘快速了解手機如何傳送檔案.md",
-    "1-閃念筆記/4 1.md",
-    "1-閃念筆記/20230425_blender探索/Export XML from blender.md",
-    "1-閃念筆記/20230425_blender探索/Blender.md",
-    "1-閃念筆記/_擷取/2023-05-06_星期六_18-05-62.md",
-    "1-閃念筆記/路徑.md",
-    "1-閃念筆記/4.md",
-    "1-閃念筆記/［未整理］對話紀錄.md",
-    "1-閃念筆記/著迷世界遊戲論.md",
+    "5-專案筆記/NADI/ServerRoom-CFD-Demo.md",
+    "5-專案筆記/NADI/工作紀錄-05.md",
+    "1-閃念筆記/憂鬱症-戰勝憂鬱症.md",
     "1-閃念筆記/故事架構.md",
-    "1-閃念筆記/見面-主人來台旅程.md",
-    "1-閃念筆記/_擷取/2023-05-06_星期六_18-05-15.md",
-    "1-閃念筆記/_擷取",
-    "1 閃念筆記/擷取",
-    "1 閃念筆記",
-    "_templates/故事模式Temp.md",
-    "_templates/Simple YAML.md",
+    "1-閃念筆記/核心網路（Core Network）.md",
+    "1-閃念筆記/__閃念筆記__.md",
+    "BANNNN.md",
+    "Pasted image 20230606160926.png",
+    "2-文獻筆記/exportfbxtounity.py.md",
+    "未命名 2.md",
+    "1-閃念筆記/未命名 5.md",
+    "Pasted image 20230527160200.png",
+    "5-專案筆記/工具/blender-bim-inspector/Mindmap - blender-bim-inspector - 2.canvas",
+    "Pasted image 20230526195240.png",
+    "Pasted image 20230526195212.png",
+    "Pasted image 20230526183718.png",
+    "Pasted image 20230526183054.png",
+    "3-技術資訊/未命名.md",
+    "2-文獻筆記/Parsing Json files.md",
+    "5-專案筆記/NADI",
+    "1-閃念筆記/穿衣哲學.md",
+    "1-閃念筆記/未命名 1.canvas",
+    "1-閃念筆記/Blender-BIM-Inspector-Domain.md",
+    "2-文獻筆記/Coding Conventions by SisusCo.md",
+    "2-文獻筆記/Character bones that look like Openpose for blender _ Ver_9 Depth+Canny+Landmark+MediaPipeFace+finger.md",
+    "5-專案筆記/Unity - CFD - Solutions/SolutionMap.canvas",
+    "5-專案筆記/Unity - CFD - Solutions/未命名.md",
+    "5-專案筆記/Unity - CFD - Solutions",
+    "Z-索引筆記/索引-2-文獻筆記.md",
+    "Z-索引筆記/索引-5-專案筆記.md",
+    "1-閃念筆記/未命名 1.md",
+    "1-閃念筆記/未命名.canvas",
+    "Z-索引筆記/索引-6-永久筆記.md",
+    "Z-索引筆記/__根目錄索引__.md",
+    "6 永久筆記/萬象論",
+    "6 永久筆記/萬象論/元素",
+    "5-專案筆記/工具/blender-bim-inspector",
+    "5-專案筆記/工具",
+    "5-專案筆記",
+    "X-主題索引/工具/blender-bim-inspector/Mindmap - blender-bim-inspector.canvas",
+    "X-主題索引/工具/blender-bim-inspector",
+    "X-主題索引/工具/未命名",
+    "X-主題索引/工具",
+    "X-主題索引/Mindmap - blender-bim-inspector.canvas",
+    "1-閃念筆記/Mindmap - blender-bim-inspector.canvas",
+    "Pasted image 20230510185931.png",
+    "Pasted image 20230510144549.png",
+    "X-主題索引/小說/Project S/未命名.canvas",
     "Pasted image 20230419155353.png",
     "Pasted image 20230419161829.png",
-    "Pasted image 20230428164415.png",
-    "Pasted image 20230428163944.png",
-    "Pasted image 20230425143703.png",
-    "註：本篇是設定在手機已開機好的狀態，若是剛開機或關閉飛航模式時，則使用者手機(UE)需要先透過Attach程序向行動電信網路註冊，以便於使用電信網路服務。1.md",
-    "6 永久筆記",
-    "Excalidraw",
-    "X-主題索引/小說/Project S/⏺組織圖",
-    "X-主題索引/小說/Project S/💠故事材料",
-    "X-主題索引/小說/Project S",
-    "X-主題索引/小說/📙Project S/📚故事資料彙整/📖情境_旅行篇/📄事件_遇上壞主人強奪小曜",
-    "X-主題索引/小說/📙Project S/📚故事資料彙整/📖情境_旅行篇",
-    "Pasted image 20230428163942.png",
-    "XML.svg",
-    "OBJECT.svg",
-    "未命名.canvas",
-    "Pasted image 20230419161843.png",
-    "Pasted image 20230419155642.png",
-    "未命名 1.canvas",
-    "X-主題索引/遊戲/Project_Espheory/未命名.canvas",
-    "X-主題索引/遊戲/Project_Espheory/行為模式.canvas",
-    "未命名/未命名.canvas"
+    "未命名.canvas"
   ]
 }

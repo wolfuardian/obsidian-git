@@ -1,15 +1,13 @@
 [
-  "obsidian-git",
-  "obsidian-timelines",
-  "obsidian-icon-folder",
-  "better-word-count",
-  "obsidian-stille",
   "obsidian-focus-mode",
-  "obsidian-prozen",
-  "obsidian-excalidraw-plugin",
+  "better-word-count",
+  "obsidian-checklist-plugin",
   "dataview",
   "dbfolder",
-  "obsidian-linter",
+  "obsidian-excalidraw-plugin",
   "obsidian-hider",
-  "quickadd"
+  "obsidian-linter",
+  "obsidian-mind-map",
+  "obsidian-icon-folder",
+  "obsidian-git"
 ]
